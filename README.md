@@ -1,3 +1,5 @@
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/d2-projects/d2-admin) 
+
 ![banner](https://raw.githubusercontent.com/FairyEver/d2-admin/master/doc/image/banner.png)
 
 <p align="center">
